@@ -24,6 +24,15 @@ A fully functional shopping cart backend built with **Spring Boot**. This projec
 ## 🧑‍💻 Author
 **Mayank086**
 
+Spring Boot based shopping cart backend application
+spring-boot
+java
+backend
+shopping-cart
+maven
+restful-api
+mysql
+
 ---
 
 ### 🚀 Getting Started
